@@ -9,11 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+CV. Last updated: Sep 2022. ([download](files/cv.pdf))
+
+<!-- Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**ETH Zürich**\
+*MSc ETH in Computer Science*\
+Major in Machine Intelligence and minor in Programming Languages and Software Engineering\
+Thesis: "Data Marketplaces and Strategies"
+
+**ETH Zürich**\
+*MSc ETH in Computer Science*
+Major in Machine Intelligence and minor in Programming Languages and Software Engineering\
+Thesis: "Data Marketplaces and Strategies"
+
+* MSc ETH in Computer Science, ETH Zürich, 2023 (expected)
+* BSc in Computer Science, University of Copenhagen, 2020
+* BSc Exchange Study in Computer Science, University of California, Merced, 2019
 
 Work experience
 ======
@@ -56,4 +68,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
