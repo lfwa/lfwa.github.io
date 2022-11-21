@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-CV. Last updated: Sep 2022. ([download](files/cv.pdf))
+CV. Last updated: Sep 2022. ([download](../files/cv.pdf))
 
 <!-- Education
 ======
