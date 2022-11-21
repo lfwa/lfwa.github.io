@@ -7,3 +7,5 @@ venue: 'In the proceedings of International Conference on Medical Image Computin
 citation: ' Raghavendra Selvan,  Nikhil Bhagwat,  L Anthony,  Benjamin Kanding,  Erik Dam, &quot;Carbon footprint of selecting and training deep learning models for medical image analysis.&quot; In the proceedings of International Conference on Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2022, 2022.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Carbon+footprint+of+selecting+and+training+deep+learning+models+for+medical+image+analysis){:target="_blank"} for full citation
+
+[[Paper](https://arxiv.org/abs/2203.02202)]
