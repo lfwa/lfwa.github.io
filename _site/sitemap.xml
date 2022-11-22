@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://lfwa.github.io/portfolio/portfolio-1/</loc>
-</url>
-<url>
-<loc>https://lfwa.github.io/portfolio/portfolio-2/</loc>
-</url>
-<url>
 <loc>https://lfwa.github.io/publication/2020-07-01-Carbontracker-Tracking-and-Predicting-the-Carbon-Footprint-of-Training-Deep-Learning-Models</loc>
 <lastmod>2020-07-01T00:00:00-07:00</lastmod>
 </url>
@@ -25,9 +19,6 @@
 </url>
 <url>
 <loc>https://lfwa.github.io/page-archive/</loc>
-</url>
-<url>
-<loc>https://lfwa.github.io/portfolio/</loc>
 </url>
 <url>
 <loc>https://lfwa.github.io/publications/</loc>
