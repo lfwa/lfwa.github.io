@@ -9,28 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-CV. Last updated: Nov 2022. ([download](../files/cv.pdf))
+Last updated: Nov 2022.\
+[[Download full version](../files/cv.pdf)]
 
 Education
 ======
 **ETH Zürich**\
-*MSc ETH in Computer Science*, Sep 2020 &ndash; Mar 2023 (expected)
+MSc ETH in Computer Science, Sep 2020 &ndash; Mar 2023 (expected)
+* Major in Machine Intelligence and minor in Programming Languages and Software Engineering.
+* Thesis: "Data Marketplaces and Strategies"
+* GPA: 5.3/6.0
 
 **University of Copenhagen**\
-*BSc in Computer Science*, Sep 2017 &ndash; Jun 2020
+BSc in Computer Science, Sep 2017 &ndash; Jun 2020
+* Specialization in Data Science with coursework focused on machine learning.
+* Thesis: "The Carbon Footprint of Training Deep Learning Models."
+* GPA: 11.8/12.0
 
 **University of California, Merced**\
-*BSc Exchange Study in Computer Science*, Aug 2019 &ndash; Dec 2019
+UCEAP Reciprocal Program, Aug 2019 &ndash; Dec 2019
+* Exchange study part of my BSc CS at UCPH with coursework focused on machine learning.
+* GPA: 4.0/4.0
 
 Experience
 ======
 **University of Copenhagen**\
-*Teaching Assistant*, Feb 2020 &ndash; Jul 2020
+Teaching Assistant, Feb 2020 &ndash; Jul 2020
 * TA for the course Data Science (2019/2020): Databases, introduction to machine learning and data science with an emphasis on natural language processing and data pipelines.
 * Main duties included organizing and teaching of lab sessions.
 
 **Nykredit**\
-*Software Developer*, Oct 2018 &ndash; Jan 2020
+Software Developer, Oct 2018 &ndash; Jan 2020
 * Part of an agile C\#-development team using Scrum and Kanban at one of Denmark's leading financial institutions.
 * Developed and maintained financial software for mortgage loans in .NET Framework significantly reducing time spent by in-house financial advisors to process and evaluate loan applications.
 * Developed and maintained a web-based ASP.NET tool for ensuring compliance across all of Nykredit IT with the data protection and privacy law GDPR.
@@ -38,9 +47,14 @@ Experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Carbontracker: Tracking and predicting the carbon footprint of training deep learning models**\
+<ins>L. F. W. Anthony</ins>, B. Kanding, and R. Selvan\
+ICML Workshop on Challenges in Deploying and monitoring Machine Learning Systems, 2020\
+<a href="https://arxiv.org/abs/2007.03051" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Paper</a> <a href="https://github.com/lfwa/carbontracker" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Code</a>
+* **Carbon footprint of selecting and training deep learning models for medical image analysis**\
+R. Selvan, N. Bhagwat, <ins>L. F. W. Anthony</ins>, B. Kanding, and E. B. Dam\
+International Conference on Medical Image Computing and Computer-Assisted Intervention &mdash; MICCAI 2022, 2022\
+<a href="https://arxiv.org/abs/2203.02202" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Paper</a>
 
 Highlighted projects
 ======
@@ -62,15 +76,48 @@ Added support for multiple SMT solvers, such as cvc5, in the symbolic-execution 
 
 Relevant coursework
 ======
-| Machine Learning & Big Data    | Mathematics                     | Software Engineering                                 |
-| ------------------------------ | ------------------------------- | ---------------------------------------------------- |
-| Advanced Machine Learning      | Statistics & Probability Theory | Program Verification                                 |
-| Causal Representation Learning | Discrete Mathematics            | Program Analysis for System Security and Reliability |
-| Natural Language Processing    | Linear Algebra                  | Concepts of Object-Oriented Programming              |
-| Probabilistic AI               | Modelling & Analysis of Data    | Computer & Network Security                          |
-| Reliable & Trustworthy AI      | Algorithms & Data Structures    |                                                      |
-| Computational Intelligence     | Randomized Algorithms           |                                                      |
-| Big Data                       |                                 |                                                      |
+<table>
+    <tr>
+        <td>Machine Learning &amp; Big Data</td>
+        <td>Mathematics</td>
+        <td>Software Engineering</td>
+    </tr>
+    <tr>
+        <td>Advanced Machine Learning</td>
+        <td>Statistics &amp; Probability Theory</td>
+        <td>Program Verification</td>
+    </tr>
+    <tr>
+        <td>Causal Representation Learning</td>
+        <td>Discrete Mathematics</td>
+        <td>Program Analysis for System Security and Reliability</td>
+    </tr>
+    <tr>
+        <td>Natural Language Processing</td>
+        <td>Linear Algebra</td>
+        <td>Concepts of Object-Oriented Programming</td>
+    </tr>
+    <tr>
+        <td>Probabilistic AI</td>
+        <td>Modelling &amp; Analysis of Data</td>
+        <td>Computer &amp; Network Security</td>
+    </tr>
+    <tr>
+        <td>Reliable &amp; Trustworthy AI</td>
+        <td>Algorithms &amp; Data Structures</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Computational Intelligence</td>
+        <td>Randomized Algorithms</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Big Data</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 Skills
 ======
