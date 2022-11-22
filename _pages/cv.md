@@ -78,9 +78,9 @@ Relevant coursework
 ======
 <table>
     <tr>
-        <td>Machine Learning &amp; Big Data</td>
-        <td>Mathematics</td>
-        <td>Software Engineering</td>
+        <td><b>Machine Learning &amp; Big Data</b></td>
+        <td><b>Mathematics</b></td>
+        <td><b>Software Engineering</b></td>
     </tr>
     <tr>
         <td>Advanced Machine Learning</td>
