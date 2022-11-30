@@ -67,7 +67,7 @@ Open-source tool released under the MIT license for tracking and predicting the 
 Introduced a novel architecture to generate predictive compatibility scores for never-before-seen content in recommendation systems. The architecture combines the strength of graph-extracted embeddings in a graph neural network with the generalization power of a deep feed-forward network and adds "reinforcements" providing additional information to the network.
 
 **Static Taint Analysis For Ethereum Contracts**\
-[github.com/lfwa/reinforced-gnn](https://github.com/lfwa/reinforced-gnn)\
+[github.com/lfwa/vulnerable-ethereum-contracts](https://github.com/lfwa/vulnerable-ethereum-contracts)\
 Designed and implemented a static taint analyzer in Datalog for Ethereum smart contracts. The analyzer detects vulnerable contracts that may be deleted from the blockchain and have all remaining cryptocurrency transferred to an untrusted address.
 
 **Supporting Alternative SMT Solvers in Viper**\
