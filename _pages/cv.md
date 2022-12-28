@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated: Nov 2022.\
+Last updated: Dec 2022.\
 [[Download full version](../files/cv.pdf)]
 
 Education
@@ -17,7 +17,7 @@ Education
 **ETH Zürich**\
 MSc ETH in Computer Science, Sep 2020 &ndash; Mar 2023 (expected)
 * Major in Machine Intelligence and minor in Programming Languages and Software Engineering.
-* Thesis: "Data Marketplaces and Strategies"
+* Thesis: "Data Marketplaces and Strategies."
 * GPA: 5.3/6.0
 
 **University of Copenhagen**\
