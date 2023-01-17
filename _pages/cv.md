@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated: Dec 2022.\
+Last updated: Jan 2023.\
 [[Download full version](../files/cv.pdf)]
 
 Education
