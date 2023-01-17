@@ -36,14 +36,14 @@ Experience
 **University of Copenhagen**\
 Teaching Assistant, Feb 2020 &ndash; Jul 2020
 * TA for the course Data Science (2019/2020): Databases, introduction to machine learning and data science with an emphasis on natural language processing and data pipelines.
-* Main duties included organizing and teaching of lab sessions.
+* Led lab sessions and provided guidance to students on coursework and projects.
 
 **Nykredit**\
 Software Developer, Oct 2018 &ndash; Jan 2020
-* Part of an agile C\#-development team using Scrum and Kanban at one of Denmark's leading financial institutions.
-* Developed and maintained financial software for mortgage loans in .NET Framework significantly reducing time spent by in-house financial advisors to process and evaluate loan applications.
-* Developed and maintained a web-based ASP.NET tool for ensuring compliance across all of Nykredit IT with the data protection and privacy law GDPR.
-* Lead the effort to set up a continuous deployment pipeline using a Jenkin CI server integrated with BitBucket completely eliminating manual work associated with integration testing and deployment.
+* Worked as a software developer in an agile C\# development team, utilizing Scrum and Kanban methodologies at one of Denmark's leading financial institutions.
+* Developed and maintained financial software for mortgage loans in .NET Framework, resulting in a significant reduction of time spent by in-house financial advisors to process loan applications.
+* Ensured compliance across all of Nykredit IT with the data protection and privacy law GDPR by developing and maintaining a web-based ASP.NET tool.
+* Lead the effort to set up a continuous deployment pipeline using a Jenkin CI server integrated with BitBucket, eliminating manual work associated with integration testing and deployment.
 
 Publications
 ======
