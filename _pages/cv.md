@@ -60,7 +60,7 @@ Highlighted projects
 ======
 **Carbontracker**\
 [github.com/lfwa/carbontracker](https://github.com/lfwa/carbontracker)\
-Open-source tool released under the MIT license for tracking and predicting the energy consumption and carbon emissions of training deep learning models in Python. Corresponding publication [arXiv](https://arxiv.org/abs/2007.03051). It has been downloaded $>$$55$k times on the Python Package Index (PyPI) as of writing.
+Open-source tool released under the MIT license for tracking and predicting the energy consumption and carbon emissions of training deep learning models in Python. Corresponding publication [arXiv](https://arxiv.org/abs/2007.03051). It has been downloaded $>$$60$k times on the Python Package Index (PyPI) as of writing.
 
 **Reinforced Graph Neural Networks for Collaborative Filtering**\
 [github.com/lfwa/reinforced-gnn](https://github.com/lfwa/reinforced-gnn)\
