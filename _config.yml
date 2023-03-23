@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lasse F. Wolff Anthony"
 title_separator          : "-"
 name                     : &name "Lasse F. Wolff Anthony"
-description              : &description "MSc student in Computer Science at ETH Zurich"
+description              : &description "MSc in Computer Science from ETH Zurich"
 url                      : https://lfwa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lfwa/lfwa.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lasse F. Wolff Anthony"
   avatar           : "profile.png"
-  bio              : "MSc student in Computer Science at ETH Zurich"
+  bio              : "MSc in Computer Science from ETH Zurich"
   location         : "Denmark"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
