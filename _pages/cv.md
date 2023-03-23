@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated: Jan 2023.\
+Last updated: Mar 2023.\
 [[Download full version](../files/cv.pdf)]
 
 Education
 ======
 **ETH Zürich**\
-MSc ETH in Computer Science, Sep 2020 &ndash; Mar 2023 (expected)
+MSc ETH in Computer Science, Sep 2020 &ndash; Mar 2023
 * Major in Machine Intelligence and minor in Programming Languages and Software Engineering.
-* Thesis: "Data Marketplaces and Strategies."
+* Thesis: "Exploring Data Collection Dynamics Through Data Valuation."
 * GPA: 5.3/6.0
 
 **University of Copenhagen**\
@@ -41,9 +41,9 @@ Teaching Assistant, Feb 2020 &ndash; Jul 2020
 **Nykredit**\
 Software Developer, Oct 2018 &ndash; Jan 2020
 * Worked as a software developer in an agile C\# development team, utilizing Scrum and Kanban methodologies at one of Denmark's leading financial institutions.
-* Developed and maintained financial software for mortgage loans in .NET Framework, resulting in a significant reduction of time spent by in-house financial advisors to process loan applications.
+* Developed and maintained financial software for mortgage loans using .NET Framework, significantly reducing time spent on processing loan application for financial advisors.
 * Ensured compliance across all of Nykredit IT with the data protection and privacy law GDPR by developing and maintaining a web-based ASP.NET tool.
-* Lead the effort to set up a continuous deployment pipeline using a Jenkins CI server integrated with BitBucket, eliminating manual work associated with integration testing and deployment.
+* Implemented a continuous deployment pipeline using a Jenkins CI server integrated with BitBucket, fully automating integration testing and deployment.
 
 Publications
 ======
@@ -60,7 +60,11 @@ Highlighted projects
 ======
 **Carbontracker**\
 [github.com/lfwa/carbontracker](https://github.com/lfwa/carbontracker)\
-Open-source tool released under the MIT license for tracking and predicting the energy consumption and carbon emissions of training deep learning models in Python. Corresponding publication [arXiv](https://arxiv.org/abs/2007.03051). It has been downloaded $>$$60$k times on the Python Package Index (PyPI) as of writing.
+Open-source tool for tracking and predicting the energy consumption and carbon emissions of training deep learning models in Python. The tool is freely distributed under the MIT License. Corresponding publication [arXiv](https://arxiv.org/abs/2007.03051). It has been downloaded $>$$60$k times on the Python Package Index (PyPI) as of writing.
+
+**Datadynamics**\
+[github.com/lfwa/datadynamics](https://github.com/lfwa/datadynamics)\
+Open-source library and environment for simulating data collection dynamics in multi-agent settings, primarily targeting the exploration of data valuation approaches. The library is freely distributed under the BSD 3-Clause License.
 
 **Reinforced Graph Neural Networks for Collaborative Filtering**\
 [github.com/lfwa/reinforced-gnn](https://github.com/lfwa/reinforced-gnn)\
@@ -128,4 +132,4 @@ Skills
 * PostgreSQL, Oracle
 
 **Frameworks and Tools**
-* PyTorch, TensorFlow, Gym(nasium), scikit-learn, NumPy, pandas, Matplotlib, Git, Spark, Hadoop, Neo4j
+* PyTorch, TensorFlow, Gym(nasium), PettingZoo, scikit-learn, NumPy, pandas, Matplotlib, Git, Spark, Hadoop, Neo4j
