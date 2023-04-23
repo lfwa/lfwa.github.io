@@ -33,16 +33,19 @@ UCEAP Reciprocal Program, Aug 2019 &ndash; Dec 2019
 
 Experience
 ======
+**Alexandra Institute**\
+AI / Machine Learning Specialist, Apr 2023 &ndash; Present
+* Held a dual role as an R&D engineer and consultant at a Research and Technology Organization (GTS).
+* Conducted applied research and developed innovative solutions in machine learning to advance the state-of-the-art methodologies with a primary focus on practical applications.
+
 **University of Copenhagen**\
 Teaching Assistant, Feb 2020 &ndash; Jul 2020
 * TA for the course Data Science (2019/2020): Databases, introduction to machine learning and data science with an emphasis on natural language processing and data pipelines.
-* Led lab sessions and provided guidance to students on coursework and projects.
 
 **Nykredit**\
 Software Developer, Oct 2018 &ndash; Jan 2020
 * Worked as a software developer in an agile C\# development team, utilizing Scrum and Kanban methodologies at one of Denmark's leading financial institutions.
 * Developed and maintained financial software for mortgage loans using .NET Framework, significantly reducing time spent on processing loan application for financial advisors.
-* Ensured compliance across all of Nykredit IT with the data protection and privacy law GDPR by developing and maintaining a web-based ASP.NET tool.
 * Implemented a continuous deployment pipeline using a Jenkins CI server integrated with BitBucket, fully automating integration testing and deployment.
 
 Publications
