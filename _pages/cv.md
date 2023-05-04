@@ -36,7 +36,7 @@ Experience
 **Alexandra Institute**\
 AI / Machine Learning Specialist, Apr 2023 &ndash; Present
 * Dual role in R&D and consultancy at a Research and Technology Organization (GTS).
-* Conducted applied research and developed innovative solutions in machine learning to advance state-of-the-art methodologies with a primary focus on practical applications.
+* Applied research in machine learning with a primary focus on practical applications.
 
 **University of Copenhagen**\
 Teaching Assistant, Feb 2020 &ndash; Jul 2020
