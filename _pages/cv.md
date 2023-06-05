@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated: Mar 2023.\
+Last updated: Jun 2023.\
 [[Download full version](../files/cv.pdf)]
 
 Education
@@ -18,25 +18,25 @@ Education
 MSc ETH in Computer Science, Sep 2020 &ndash; Mar 2023
 * Major in Machine Intelligence and minor in Programming Languages and Software Engineering.
 * Thesis: "Exploring Data Collection Dynamics Through Data Valuation."
-* GPA: 5.3/6.0
 
 **University of Copenhagen**\
 BSc in Computer Science, Sep 2017 &ndash; Jun 2020
 * Specialization in Data Science with coursework focused on machine learning.
 * Thesis: "The Carbon Footprint of Training Deep Learning Models."
-* GPA: 11.8/12.0
 
 **University of California, Merced**\
 UCEAP Reciprocal Program, Aug 2019 &ndash; Dec 2019
 * Exchange study part of my BSc CS at UCPH with coursework focused on machine learning.
-* GPA: 4.0/4.0
 
 Experience
 ======
+**UBS**\
+Quant Developer, Jun 2023 &ndash; Present
+* Design and develop big data tools and solutions for Treasury Risk Control's balance sheet analytics.
+
 **Alexandra Institute**\
-AI / Machine Learning Specialist, Apr 2023 &ndash; Present
-* Dual role in R&D and consultancy at a Research and Technology Organization (GTS).
-* Applied research in machine learning with a primary focus on practical applications.
+AI / Machine Learning Specialist, Apr 2023 &ndash; May 2023
+* Dual role in applied research and expert consultancy in machine learning at a Research and Technology Organization (RTO).
 
 **University of Copenhagen**\
 Teaching Assistant, Feb 2020 &ndash; Jul 2020
