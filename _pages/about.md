@@ -7,14 +7,14 @@ redirect_from:
 - /about/
 - /about.html
 ---
+Currently, I am working as a Quant Developer at [UBS](https://www.ubs.com/ch/en.html), specializing in designing and developing big data tools and solutions for Treasury Risk Control's balance sheet analytics.
 
-I graduated with a MSc in Computer Science from [ETH Zurich](https://inf.ethz.ch/), where I worked on data valuation and performative prediction with [David Dao](https://daviddao.org/), advised by [Prof. Dr. Ce Zhang](https://zhangce.github.io/).
-In my research I explored how we can value data and create robust strategies when data contributors may exhibit adversarial behavior.
+I hold an MSc in Computer Science from [ETH Zurich](https://inf.ethz.ch/), where I worked on data valuation and performative prediction under the guidance of [Dr. David Dao](https://daviddao.org/) and [Prof. Dr. Ce Zhang](https://zhangce.github.io/).
+In my research, I explored how we can value data and create robust strategies when data contributors may exhibit adversarial behavior.
 
-Previously, I completed my BSc in Computer Science at [University of Copenhagen](https://di.ku.dk/english/) and
-researched sustainability and resource efficiency of machine learning, supervised by [Prof. Dr. Raghav
-Selvan](https://raghavian.github.io/). I have also worked as a software developer at
-[Nykredit](https://www.nykredit.com/en-gb/).
+Prior to my graduate studies, I completed my BSc in Computer Science at [University of Copenhagen](https://di.ku.dk/english/) and
+researched sustainability and resource efficiency of machine learning, supervised by [Prof. Dr. Raghav Selvan](https://raghavian.github.io/).
+Additionally, I have worked as a software developer at [Nykredit](https://www.nykredit.com/en-gb/) and had a short stint as an AI / Machine Learning Specialist at the [Alexandra Institute](https://alexandra.dk/about-the-alexandra-institute/).
 
 
 ## Publications

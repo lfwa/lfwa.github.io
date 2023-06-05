@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 Lasse F. Wolff Anthony\
-+45 81 19 71 00\
-[lfwa@proton.me](mailto:lfwa@proton.me)
+[lfwa@proton.me](mailto:lfwa@proton.me)\
+[linkedin.com/in/lfwa](https://www.linkedin.com/in/lfwa)
 
 Email is usually the best way to reach me.
