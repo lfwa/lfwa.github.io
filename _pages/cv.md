@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated: Jun 2023.\
+Last updated: Oct 2023.\
 [[Download full version](../files/cv.pdf)]
 
 Education
@@ -36,7 +36,7 @@ Quant Developer, Jun 2023 &ndash; Present
 
 **Alexandra Institute**\
 AI / Machine Learning Specialist, Apr 2023 &ndash; May 2023
-* Dual role in applied research and expert consultancy in machine learning at a Research and Technology Organization (RTO).
+* Dual role in applied research and expert consultancy in machine learning at a Research and Technology Organization with a focus on natural language processing (NLP) and utilizing pretrained transformers.
 
 **University of Copenhagen**\
 Teaching Assistant, Feb 2020 &ndash; Jul 2020
@@ -64,7 +64,7 @@ Highlighted projects
 ======
 **Carbontracker**\
 [github.com/lfwa/carbontracker](https://github.com/lfwa/carbontracker)\
-Open-source tool for tracking and predicting the energy consumption and carbon emissions of training deep learning models in Python. The tool is freely distributed under the MIT License. Corresponding publication [arXiv](https://arxiv.org/abs/2007.03051). It has been downloaded $>$$60$k times on the Python Package Index (PyPI) as of writing.
+Open-source tool for tracking and predicting the energy consumption and carbon emissions of training deep learning models in Python. The tool is freely distributed under the MIT License. Corresponding publication [arXiv](https://arxiv.org/abs/2007.03051). It has been downloaded $>$$75$k times on the Python Package Index (PyPI) as of writing.
 
 **Datadynamics**\
 [github.com/lfwa/datadynamics](https://github.com/lfwa/datadynamics)\
@@ -136,4 +136,4 @@ Skills
 * PostgreSQL, Oracle
 
 **Frameworks and Tools**
-* PyTorch, TensorFlow, Gym(nasium), PettingZoo, scikit-learn, NumPy, pandas, Matplotlib, Git, Spark, Hadoop, Neo4j
+* PyTorch, TensorFlow, Gym(nasium), PettingZoo, scikit-learn, NumPy, pandas, Matplotlib, Git, Spark, Hadoop, Neo4j, QuantLib
