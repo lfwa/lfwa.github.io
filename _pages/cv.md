@@ -33,20 +33,23 @@ Experience
 **UBS**\
 Quant Developer, Jun 2023 &ndash; Present
 * Design and develop big data tools and solutions for Treasury Risk Control's balance sheet analytics.
+* Lead developer for a library calculating cash flows from position-level data, enhancing risk management through detailed sensitivity analysis using automatic differentiation.
+* Drive code infrastructure improvements, including CI/CD pipelines and migration to Databricks and Spark, enhancing data processing speed and reliability.
+* Implement machine learning models for predictive analytics and risk assessment, resulting in more accurate forecasting and better-informed risk management decisions.
 
 **Alexandra Institute**\
 AI / Machine Learning Specialist, Mar 2023 &ndash; Jun 2023
-* Dual role in applied research and expert consultancy in machine learning at a Research and Technology Organization with a focus on natural language processing (NLP) and utilizing pretrained transformers.
+* Dual role in applied research and expert consultancy in machine learning, focusing on natural language processing and utilizing pretrained transformers.
 
 **University of Copenhagen**\
 Teaching Assistant, Jan 2020 &ndash; Jul 2020
-* TA for the course Data Science (2019/2020): Databases, introduction to machine learning and data science with an emphasis on natural language processing and data pipelines.
+* Assisted in teaching the Data Science course, covering databases, machine learning, and data pipelines.
 
 **Nykredit**\
 Software Developer, Oct 2018 &ndash; Jan 2020
-* Worked as a software developer in an agile C\# development team, utilizing Scrum and Kanban methodologies at one of Denmark's leading financial institutions.
-* Developed and maintained financial software for mortgage loans using .NET Framework, significantly reducing time spent on processing loan application for financial advisors.
-* Implemented a continuous deployment pipeline using a Jenkins CI server integrated with BitBucket, fully automating integration testing and deployment.
+* Built financial software for internal advisors in an agile C\# development team.
+* Developed and maintained financial software for mortgage loans in .NET, reducing processing time.
+* Implemented a continuous deployment pipelines with Jenkins and BitBucket, fully automating integration testing and deployment, which improved deployment efficiency and reliability.
 
 Publications
 ======
