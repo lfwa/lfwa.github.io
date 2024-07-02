@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated: Oct 2023.\
+Last updated: Jul 2024.\
 [[Download full version](../files/cv.pdf)]
 
 Education
@@ -35,11 +35,11 @@ Quant Developer, Jun 2023 &ndash; Present
 * Design and develop big data tools and solutions for Treasury Risk Control's balance sheet analytics.
 
 **Alexandra Institute**\
-AI / Machine Learning Specialist, Apr 2023 &ndash; May 2023
+AI / Machine Learning Specialist, Mar 2023 &ndash; Jun 2023
 * Dual role in applied research and expert consultancy in machine learning at a Research and Technology Organization with a focus on natural language processing (NLP) and utilizing pretrained transformers.
 
 **University of Copenhagen**\
-Teaching Assistant, Feb 2020 &ndash; Jul 2020
+Teaching Assistant, Jan 2020 &ndash; Jul 2020
 * TA for the course Data Science (2019/2020): Databases, introduction to machine learning and data science with an emphasis on natural language processing and data pipelines.
 
 **Nykredit**\
