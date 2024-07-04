@@ -49,7 +49,7 @@ Teaching Assistant, Jan 2020 &ndash; Jul 2020
 Software Developer, Oct 2018 &ndash; Jan 2020
 * Built financial software for internal advisors in an agile C\# development team.
 * Developed and maintained financial software for mortgage loans in .NET, reducing processing time.
-* Implemented a continuous deployment pipelines with Jenkins and BitBucket, fully automating integration testing and deployment, which improved deployment efficiency and reliability.
+* Implemented continuous deployment pipelines with Jenkins and BitBucket, fully automating integration testing and deployment, which improved deployment efficiency and reliability.
 
 Publications
 ======
