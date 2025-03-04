@@ -7,7 +7,8 @@ redirect_from:
 - /about/
 - /about.html
 ---
-Currently, I am working as a Quant Developer at [UBS](https://www.ubs.com/ch/en.html), specializing in designing and developing big data tools and solutions for Treasury Risk Control's balance sheet analytics.
+Currently, I work as a Quant at [UBS](https://www.ubs.com/ch/en.html) in Zurich.
+After a successful tenure as a Quant Developer in Treasury Risk Control, where I engineered big data solutions for balance sheet analytics, I transitioned internally to the QuantHub team.
 
 I hold an MSc in Computer Science from [ETH Zurich](https://inf.ethz.ch/), where I worked on data valuation and performative prediction under the guidance of [Dr. David Dao](https://daviddao.org/) and [Prof. Dr. Ce Zhang](https://zhangce.github.io/).
 In my research, I explored how we can value data and create robust strategies when data contributors may exhibit adversarial behavior.

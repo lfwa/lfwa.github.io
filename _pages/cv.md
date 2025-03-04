@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated: Jul 2024.\
+Last updated: Mar 2025.\
 [[Download full version](../files/cv.pdf)]
 
 Education
@@ -31,7 +31,12 @@ UCEAP Reciprocal Program, Aug 2019 &ndash; Dec 2019
 Experience
 ======
 **UBS**\
-Quant Developer, Jun 2023 &ndash; Present
+Quant, Jan 2025 &ndash; Present
+* Selected via internal transfer to join a team of quants based on strong quantitative, machine learning, and programming skills.
+* Develop and implement advanced algorithms for network analysis, focusing on processing and extracting insights from large-scale graph data.
+* Develop internal workshops on generative AI with a focus on natural language processing.
+
+Quant Developer, Jun 2023 &ndash; Jan 2025
 * Design and develop big data tools and solutions for Treasury Risk Control's balance sheet analytics.
 * Lead developer for a library calculating cash flows from position-level data, enhancing risk management through detailed sensitivity analysis using automatic differentiation.
 * Drive code infrastructure improvements, including CI/CD pipelines and migration to Databricks and Spark, enhancing data processing speed and reliability.
@@ -47,9 +52,9 @@ Teaching Assistant, Jan 2020 &ndash; Jul 2020
 
 **Nykredit**\
 Software Developer, Oct 2018 &ndash; Jan 2020
-* Built financial software for internal advisors in an agile C\# development team.
-* Developed and maintained financial software for mortgage loans in .NET, reducing processing time.
-* Implemented continuous deployment pipelines with Jenkins and BitBucket, fully automating integration testing and deployment, which improved deployment efficiency and reliability.
+* Developed financial software for internal advisors as part of an agile C\# development team.
+* Built and maintained solutions for mortgage loans in .NET, significantly reducing processing time.
+* Implemented continuous deployment pipelines using Jenkins and BitBucket to fully automate integration testing and deployment, thereby improving efficiency and reliability.
 
 Publications
 ======
@@ -67,68 +72,23 @@ Highlighted projects
 ======
 **Carbontracker**\
 [github.com/lfwa/carbontracker](https://github.com/lfwa/carbontracker)\
-Open-source tool for tracking and predicting the energy consumption and carbon emissions of training deep learning models in Python. The tool is freely distributed under the MIT License. Corresponding publication [arXiv](https://arxiv.org/abs/2007.03051). It has been downloaded $>$$75$k times on the Python Package Index (PyPI) as of writing.
+Open-source tool for tracking and predicting the energy consumption and carbon emissions of training deep learning models in Python. Freely distributed under the MIT License. Corresponding publication [arXiv](https://arxiv.org/abs/2007.03051). Over $120$k downloads on the Python Package Index (PyPI) as of writing.
 
 **Datadynamics**\
 [github.com/lfwa/datadynamics](https://github.com/lfwa/datadynamics)\
-Open-source library and environment for simulating data collection dynamics in multi-agent settings, primarily targeting the exploration of data valuation approaches. The library is freely distributed under the BSD 3-Clause License.
+Library and environment for simulating data collection dynamics in multi-agent settings, primarily targeting exploration of data valuation approaches. Freely distributed under the BSD 3-Clause License.
 
 **Reinforced Graph Neural Networks for Collaborative Filtering**\
 [github.com/lfwa/reinforced-gnn](https://github.com/lfwa/reinforced-gnn)\
-Introduced a novel architecture to generate predictive compatibility scores for never-before-seen content in recommendation systems. The architecture combines the strength of graph-extracted embeddings in a graph neural network with the generalization power of a deep feed-forward network and adds "reinforcements" providing additional information to the network.
+Introduced a novel architecture that generates predictive compatibility scores for never-before-seen content in recommendation systems. Combines graph neural networks with deep feed-forward networks enhanced by reinforcement signals.
 
 **Static Taint Analysis For Ethereum Contracts**\
 [github.com/lfwa/vulnerable-ethereum-contracts](https://github.com/lfwa/vulnerable-ethereum-contracts)\
-Designed and implemented a static taint analyzer in Datalog for Ethereum smart contracts. The analyzer detects vulnerable contracts that may be deleted from the blockchain and have all remaining cryptocurrency transferred to an untrusted address.
+Designed and implemented a static taint analyzer in Datalog for Ethereum smart contracts, detecting vulnerable contracts that risk being deleted with funds transferred to untrusted addresses.
 
 **Supporting Alternative SMT Solvers in Viper**\
 [github.com/viperproject](https://github.com/viperproject)\
-Added support for multiple SMT solvers, such as cvc5, in the symbolic-execution based automated verification backend written in Scala for the program verification tool chain and infrastructure, Viper.
-
-Relevant coursework
-======
-<table>
-    <tr>
-        <td><b>Machine Learning &amp; Big Data</b></td>
-        <td><b>Mathematics</b></td>
-        <td><b>Software Engineering</b></td>
-    </tr>
-    <tr>
-        <td>Advanced Machine Learning</td>
-        <td>Statistics &amp; Probability Theory</td>
-        <td>Program Verification</td>
-    </tr>
-    <tr>
-        <td>Causal Representation Learning</td>
-        <td>Discrete Mathematics</td>
-        <td>Program Analysis for System Security and Reliability</td>
-    </tr>
-    <tr>
-        <td>Natural Language Processing</td>
-        <td>Linear Algebra</td>
-        <td>Concepts of Object-Oriented Programming</td>
-    </tr>
-    <tr>
-        <td>Probabilistic AI</td>
-        <td>Modelling &amp; Analysis of Data</td>
-        <td>Computer &amp; Network Security</td>
-    </tr>
-    <tr>
-        <td>Reliable &amp; Trustworthy AI</td>
-        <td>Algorithms &amp; Data Structures</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Computational Intelligence</td>
-        <td>Randomized Algorithms</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Big Data</td>
-        <td></td>
-        <td></td>
-    </tr>
-</table>
+Expanded the symbolic-execution based automated verification backend in Scala for Viper by adding support for multiple SMT solvers, such as cvc5, enhancing verification capabilities.
 
 Skills
 ======
@@ -139,4 +99,4 @@ Skills
 * PostgreSQL, Oracle
 
 **Frameworks and Tools**
-* PyTorch, TensorFlow, Gym(nasium), PettingZoo, scikit-learn, NumPy, pandas, Matplotlib, Git, Spark, Hadoop, Neo4j, QuantLib
+* PyTorch, TensorFlow, Gym(nasium), PettingZoo, scikit-learn, NumPy, pandas, Matplotlib, Git, Spark, Hadoop, Neo4j, QuantLib, networkx
